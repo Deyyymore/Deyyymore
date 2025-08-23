@@ -41,10 +41,15 @@
 ---
 
 ## 📊 Estatísticas  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deyyymore&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deyyymore&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deyyymore&show_icons=true)
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deyyymore&layout=compact)
+
 
 ---
+![Followers](https://img.shields.io/github/followers/Deyyymore?style=social)
+![Stars](https://img.shields.io/github/stars/Deyyymore?affiliations=OWNER%2CCOLLABORATOR)
+
 
 ---
 ### 🔥 Últimos repositórios
