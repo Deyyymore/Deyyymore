@@ -46,6 +46,14 @@
 
 ---
 
+---
+### 🔥 Últimos repositórios
+<!--START:REPOS-->
+(carregando…)
+<!--END:REPOS-->
+---
+
+
 ## 🌐 Contato  
 - ✉️ [rosiaswoodjerryjames@gmail.com](mailto:rosiaswoodjerryjames@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/dierryrosias)  
