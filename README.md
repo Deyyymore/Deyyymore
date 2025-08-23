@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou o Dierry Rosias  
 
-<img src="https://raw.githubusercontent.com/Deyyymore/Deyyymore/main/foto.png" width="150" align="right" />
+<img src="deyyy pic.png" width="150" align="right" />
+
 
 ## 🚀 Sobre mim  
 - 🎓 Estudante de **Engenharia da Computação** e **Análise e Desenvolvimento de Sistemas**  
@@ -47,5 +48,5 @@
 
 ## 🌐 Contato  
 - ✉️ [rosiaswoodjerryjames@gmail.com](mailto:rosiaswoodjerryjames@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/deyyymore)  
-- 🌍 [deyyymore.com.br](https://deyyymore.com.br)  
+- 💼 [LinkedIn](https://linkedin.com/in/dierryrosias)  
+    
